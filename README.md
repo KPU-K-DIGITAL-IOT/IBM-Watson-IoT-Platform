@@ -1,5 +1,31 @@
-# IBM-Watson-IoT-Platform
-IBM Watson Iot 플랫폼을 이용한 사물인터넷 난방 조절 시스템
+# 한국산업기술대학교 K-DIGITAL IoT/스마트홈 Project
+
+# IBM Watson Iot 플랫폼을 이용한 전신주 안전 관리 시스템
+
+# 연구 배경
+
+한전의 전신주 폴, CCTV용 폴, 신호등 폴, 가로등 폴 및 안내표지 폴 등 다양한 용도로 사용되는 지주들은 장기간 사용에 따른 노후화, 무거운 변압기 설치, 통신 및 전원 케이블의 다중포설, 지진, 태풍, 지반변동, 차량의 충돌 등의 원인에 의해 시공 이후에 기울어짐이 발생되고, 심하게 기울어져 있는 경우, 차량의 운전자 또는 보행자들에게 위험한 요소로 작용할 수 있음.
+
+지주의 즉각적인 위험 예방이나 유지보수가 가능하게 함으로써 지주로부터 발생되는 위험을 최소화가 시급한 실정.
+
+
+
+# 시스템 시나리오
+
+![image](https://user-images.githubusercontent.com/66546156/132272452-050c1e7d-0582-46aa-b8ca-4364e107ef4c.png)
+
+
+# System FlowChart
+
+![image](https://user-images.githubusercontent.com/66546156/132272369-41f0900e-0c92-4c69-9080-47cc6d272e69.png)
+
+# Senesor Module
+
+![image](https://user-images.githubusercontent.com/66546156/132272404-d2fa2c70-303d-447b-b78a-f7f146ac87e8.png)
+
+ 
+
+# IBM Watson Iot 플랫폼을 이용한 사물인터넷 난방 조절 시스템
 
 # System FlowChart
 ![cloud설계](https://user-images.githubusercontent.com/66546156/127691301-d30cf543-c900-47b7-8407-0bfa47cc39c2.png)
