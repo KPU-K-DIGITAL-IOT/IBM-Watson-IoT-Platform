@@ -23,6 +23,13 @@
 
 ![image](https://user-images.githubusercontent.com/66546156/132272404-d2fa2c70-303d-447b-b78a-f7f146ac87e8.png)
 
+# 데모 시제품
+
+라즈베리 파이와 센서를 이용하여 회로를 구성하고 각 센서와 클라우드 플랫폼이 통신할 수 있는 환경을 구축함
+
+![image](https://user-images.githubusercontent.com/66546156/132272601-d5df7e34-81f7-4b5a-9e21-62b648eeacc8.png)
+
+
  
 
 # IBM Watson Iot 플랫폼을 이용한 사물인터넷 난방 조절 시스템
