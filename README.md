@@ -19,7 +19,6 @@
 ![image](https://user-images.githubusercontent.com/66546156/132272716-40d4c975-2072-40af-b5a5-abd2d0677691.png)
 
 
-
 # System FlowChart
 
 ![image](https://user-images.githubusercontent.com/66546156/132272369-41f0900e-0c92-4c69-9080-47cc6d272e69.png)
@@ -27,6 +26,11 @@
 # Senesor Module
 
 ![image](https://user-images.githubusercontent.com/66546156/132272404-d2fa2c70-303d-447b-b78a-f7f146ac87e8.png)
+
+# 모니터링 UI
+
+![image](https://user-images.githubusercontent.com/66546156/132272778-cb205620-39ea-4577-88a1-0dbbda932df9.png)
+
 
 # 데모 시제품
 
