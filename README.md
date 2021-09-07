@@ -14,6 +14,11 @@
 
 ![image](https://user-images.githubusercontent.com/66546156/132272452-050c1e7d-0582-46aa-b8ca-4364e107ef4c.png)
 
+# 통신 구조
+
+![image](https://user-images.githubusercontent.com/66546156/132272716-40d4c975-2072-40af-b5a5-abd2d0677691.png)
+
+
 
 # System FlowChart
 
