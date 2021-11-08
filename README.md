@@ -54,3 +54,6 @@
 
 ![3](https://user-images.githubusercontent.com/66546156/127691506-820a1280-fab7-4d90-bb1d-3defcc08dd08.png)
 
+### result
+
+https://github.com/Const4nt0228/Const4nt0228/blob/main/K-digitalIot%20%EB%B0%95%EC%83%81%EC%88%98.png?raw=true
