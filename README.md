@@ -56,4 +56,4 @@
 
 ### result
 
-https://github.com/Const4nt0228/Const4nt0228/blob/main/K-digitalIot%20%EB%B0%95%EC%83%81%EC%88%98.png?raw=true
+![image](https://user-images.githubusercontent.com/66546156/140755782-875f2632-36f1-4fb5-8ffa-655ff2801b24.png)
