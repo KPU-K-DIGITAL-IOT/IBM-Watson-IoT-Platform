@@ -1,4 +1,5 @@
 # 한국산업기술대학교 K-DIGITAL IoT/스마트홈 Project
+[최종 보고서 링크 Go!](https://github.com/KPU-K-DIGITAL-IOT/KDigitalIoTProject/blob/main/IoT%20%EA%B8%B0%EC%88%A0%EC%9D%84%20%EC%A0%81%EC%9A%A9%ED%95%9C%20%EC%A0%84%EC%8B%A0%EC%A3%BC%20%EC%95%88%EC%A0%84%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C(%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C).pdf)
 
 # IBM Watson Iot 플랫폼을 이용한 전신주 안전 관리 시스템
 
