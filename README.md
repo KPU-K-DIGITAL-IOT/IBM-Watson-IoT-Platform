@@ -54,7 +54,3 @@
 # Device Map
 
 ![3](https://user-images.githubusercontent.com/66546156/127691506-820a1280-fab7-4d90-bb1d-3defcc08dd08.png)
-
-### result
-
-![image](https://user-images.githubusercontent.com/66546156/140755782-875f2632-36f1-4fb5-8ffa-655ff2801b24.png)
